@@ -1,2 +1,5 @@
 #ignore venv
 .venv/
+ngc2835/
+ngc6101/
+ngc7099/
